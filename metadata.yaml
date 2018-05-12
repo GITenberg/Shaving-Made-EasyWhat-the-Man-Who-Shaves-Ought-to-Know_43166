@@ -1,0 +1,29 @@
+_repo: Shaving-Made-EasyWhat-the-Man-Who-Shaves-Ought-to-Know_43166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43166-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43166'
+  lccn: '06005154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shaving'
+- !lcc 'TT'
+title: 'Shaving Made Easy: What the Man Who Shaves Ought to Know'
+url: http://www.gutenberg.org/ebooks/43166
